@@ -1,0 +1,28 @@
+name: John Harding JD
+favicon: null
+layout_spectrum: 0.6050011743791401
+typography_spectrum: 0.21377114113420248
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.21203658170998096
+  lightness: 0.5958707728423178
+  saturation: 0.13055836991406977
+  rhythmicContrast: 0.7830248866230249
+purpose: []
