@@ -4,8 +4,15 @@
         <description><![CDATA[California Family Law Lawyer]]></description>
         <link>https://thegrid.ai/john-harding-jd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 18:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 18:04:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/john-harding-jd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Syracuse University]]></title>
+            <description><![CDATA[<article><h1>Syracuse University</h1><p>For the first time, scientists, including those at Syracuse University, have observed ripples in the fabric of spacetime called gravitational waves, arriving at the earth from a cataclysmic event in the distant universe. This confirms a major prediction of Albert Einstein's 1915 general theory of relativity, and opens an unprecedented new window onto the cosmos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d7a161b6082a3541c69fa93400f72280636c23e.jpg"></article>]]></description>
+            <link>http://www.syr.edu/index.html</link>
+            <guid isPermaLink="false">2d7cacd2-be91-4e8c-84ee-5b9b4aa56a33</guid>
+            <pubDate>Mon, 15 Feb 2016 18:03:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://www.stmarys-ca.edu/sites/all/themes/custom/smc_front/images/logo_l.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://en.wikipedia.org/wiki/Pleasanton,_California</link>
             <guid isPermaLink="false">65b9c69e-91b9-47e2-9f70-9c360e2c0543</guid>
             <pubDate>Mon, 15 Feb 2016 17:51:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.cc-courts.org/_data/Global/Images/bnr.jpg">]]></description>
-            <link>https://thegrid.ai/john-harding-jd/b5af2219-9dc1-41cf-847c-90b913f7b7fe/index.html</link>
-            <guid isPermaLink="false">b5af2219-9dc1-41cf-847c-90b913f7b7fe</guid>
-            <pubDate>Mon, 15 Feb 2016 17:51:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
