@@ -4,8 +4,15 @@
         <description><![CDATA[John Harding, California Family Law Lawyer]]></description>
         <link>https://thegrid.ai/john-harding-jd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 18:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 19:06:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/john-harding-jd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i2.cdn.turner.com/cnnnext/dam/assets/160215104044-supreme-court-interior-restricted-overlay-tease.jpg">]]></description>
+            <link>https://thegrid.ai/john-harding-jd/20505cbe-87b7-498d-b864-e99b549f198a/index.html</link>
+            <guid isPermaLink="false">20505cbe-87b7-498d-b864-e99b549f198a</guid>
+            <pubDate>Mon, 15 Feb 2016 19:05:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://www.acfls.org/graphics/header.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://abovethelaw.com/</link>
             <guid isPermaLink="false">3396a256-98f6-4f4d-850d-2d72771e8472</guid>
             <pubDate>Mon, 15 Feb 2016 17:57:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Golden Gate University School of Law - San Francisco, California Law School]]></title>
-            <description><![CDATA[<article><h1>Golden Gate University School of Law - San Francisco, California Law School</h1><p>Founded in 1901, Golden Gate University Law School prepares students to be critical thinkers, problem solvers and leaders in their respective fields.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c7151b3419d508d5680c320095050753bc3e6f0.jpg"></article>]]></description>
-            <link>http://law.ggu.edu/</link>
-            <guid isPermaLink="false">f1935209-9d39-4b61-b52b-4d6cf4599952</guid>
-            <pubDate>Mon, 15 Feb 2016 17:57:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
