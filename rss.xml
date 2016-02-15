@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[California Family Law Lawyer]]></title>
-        <description><![CDATA[California Family Law Lawyer]]></description>
+        <title><![CDATA[John Harding: California Family Law Lawyer]]></title>
+        <description><![CDATA[John Harding: California Family Law Lawyer]]></description>
         <link>https://thegrid.ai/john-harding-jd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 18:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 18:16:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/john-harding-jd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>johnharding.lawyer</p>]]></description>
+            <link>https://thegrid.ai/john-harding-jd/05fa03de-6bfa-4366-8318-17be9aff49e8/index.html</link>
+            <guid isPermaLink="false">05fa03de-6bfa-4366-8318-17be9aff49e8</guid>
+            <pubDate>Mon, 15 Feb 2016 18:16:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pepperdine University]]></title>
-            <description><![CDATA[<article><h1>Pepperdine University</h1><p>Welcome to Pepperdine University.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efd25906d51dc4adf8426ce1498daa54ca603eac.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Pepperdine University</h1><p>Welcome to Pepperdine University.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e966d29054c68121d1e06611b742efed0f4c8945.jpg"></article>]]></description>
             <link>http://www.pepperdine.edu/</link>
             <guid isPermaLink="false">d3bb252c-ef10-4742-a172-697f61d8e043</guid>
             <pubDate>Mon, 15 Feb 2016 18:03:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Syracuse University]]></title>
-            <description><![CDATA[<article><h1>Syracuse University</h1><p>For the first time, scientists, including those at Syracuse University, have observed ripples in the fabric of spacetime called gravitational waves, arriving at the earth from a cataclysmic event in the distant universe. This confirms a major prediction of Albert Einstein's 1915 general theory of relativity, and opens an unprecedented new window onto the cosmos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d7a161b6082a3541c69fa93400f72280636c23e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Syracuse University</h1><p>For the first time, scientists, including those at Syracuse University, have observed ripples in the fabric of spacetime called gravitational waves, arriving at the earth from a cataclysmic event in the distant universe. This confirms a major prediction of Albert Einstein's 1915 general theory of relativity, and opens an unprecedented new window onto the cosmos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/702c7e14299de0a5d2425fa2d765762a15facd82.jpg"></article>]]></description>
             <link>http://www.syr.edu/index.html</link>
             <guid isPermaLink="false">2d7cacd2-be91-4e8c-84ee-5b9b4aa56a33</guid>
             <pubDate>Mon, 15 Feb 2016 18:03:11 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.iaml.org/past_meetings/bordeaux/index.html</link>
             <guid isPermaLink="false">4550c62d-4806-4f2f-8ca0-2cea0765c228</guid>
             <pubDate>Mon, 15 Feb 2016 17:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IAML Symposium for Spanish Lawyers Seville]]></title>
-            <description><![CDATA[<article><h1>IAML Symposium for Spanish Lawyers Seville</h1><p>IAML Latin American/Spanish speaking Symposium, Seville, March 2015</p></article>]]></description>
-            <link>https://www.iaml.org/past_meetings/seville-symposium/index.html</link>
-            <guid isPermaLink="false">bf3953c9-8c8d-47c9-8b2e-3850fd46e2d1</guid>
-            <pubDate>Mon, 15 Feb 2016 17:51:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
