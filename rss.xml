@@ -4,8 +4,15 @@
         <description><![CDATA[John Harding, California Family Law Lawyer]]></description>
         <link>https://thegrid.ai/john-harding-jd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 18:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 18:33:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/john-harding-jd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/df675a9b-20e7-40f6-b7dd-5f694ec9fddb.jpg">]]></description>
+            <link>https://thegrid.ai/john-harding-jd/e2598414-d7b0-4ee6-bd24-03aae6ff87ff/index.html</link>
+            <guid isPermaLink="false">e2598414-d7b0-4ee6-bd24-03aae6ff87ff</guid>
+            <pubDate>Sat, 20 Feb 2016 18:32:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f8830e6-1e9a-45f8-bc06-254b4c5dbaef.png">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.ritzcarlton.com/en/Properties/Singapore/Default.htm</link>
             <guid isPermaLink="false">cbf26c64-956d-4eb3-b387-bac1530d92df</guid>
             <pubDate>Tue, 16 Feb 2016 01:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.starwoodhotels.com/pub/media/1427/wes1427gr.100761_ub.jpg">]]></description>
-            <link>https://thegrid.ai/john-harding-jd/94cca0be-67eb-47b3-a3ba-fc74b237d7b7/index.html</link>
-            <guid isPermaLink="false">94cca0be-67eb-47b3-a3ba-fc74b237d7b7</guid>
-            <pubDate>Tue, 16 Feb 2016 01:16:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
