@@ -4,8 +4,15 @@
         <description><![CDATA[John Harding, California Family Law Lawyer]]></description>
         <link>https://thegrid.ai/john-harding-jd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 21:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 21:32:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/john-harding-jd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f9e585504998af71bfb60d6625e314983e65438.jpg" alt="" title="">]]></description>
+            <link>http://sanfrancisco.giants.mlb.com/spring_training/index.jsp?c_id=sf</link>
+            <guid isPermaLink="false">a8380797-7404-45c1-b3a2-c5038e37854a</guid>
+            <pubDate>Sat, 20 Feb 2016 21:32:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/df675a9b-20e7-40f6-b7dd-5f694ec9fddb.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.hardinglaw.com/blog/john-harding-starts-term-as-aaml-nor-cal-chapter-president</link>
             <guid isPermaLink="false">4de482f4-e00a-46c8-ade0-6d8968ca57c4</guid>
             <pubDate>Tue, 16 Feb 2016 01:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Luxury Hotels in Singapore - 5 Star Hotel Singapore | The Ritz-Carlton]]></title>
-            <description><![CDATA[<article><h1>Luxury Hotels in Singapore - 5 Star Hotel Singapore | The Ritz-Carlton</h1><p>At The Ritz-Carlton, Millenia Singapore, visitors will discover that a work of art does not always require a traditional canvas. A stunning structure designed by Pritzker prize-winning architect Kevin Roche, the luxury hotel sets geometric lines, contemporary style and subtle Oriental touches against a backdrop of the Marina Bay and city skyline.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07607ae7e97fbbfc06acde6e1e9a9e127a38421a.jpg"></article>]]></description>
-            <link>http://www.ritzcarlton.com/en/Properties/Singapore/Default.htm</link>
-            <guid isPermaLink="false">cbf26c64-956d-4eb3-b387-bac1530d92df</guid>
-            <pubDate>Tue, 16 Feb 2016 01:17:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
