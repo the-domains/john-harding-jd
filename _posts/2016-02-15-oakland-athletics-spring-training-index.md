@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://oakland.athletics.mlb.com'
-  name: Oakland Athletics
-  favicon: 'http://mlb.mlb.com/pressbox_open/images/apple-icons/oak.png'
-  domain: oakland.athletics.mlb.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://oakland.athletics.mlb.com/spring_training/?c_id=oak'
+inLanguage: en
+starred: false
 keywords:
   - hohokam
   - access
@@ -18,19 +17,22 @@ keywords:
   - training
   - usability
 description: ''
-inLanguage: en
+datePublished: '2016-02-20T21:32:59.732Z'
+dateModified: '2016-02-20T21:25:40.360Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://oakland.athletics.mlb.com/spring_training/?c_id=oak'
 title: Oakland Athletics Spring Training Index
-datePublished: '2016-02-15T22:55:44.279Z'
-dateModified: '2016-02-15T22:54:35.463Z'
 sourcePath: _posts/2016-02-15-oakland-athletics-spring-training-index.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Oakland Athletics
+  domain: oakland.athletics.mlb.com
+  url: 'http://oakland.athletics.mlb.com'
+  favicon: 'http://mlb.mlb.com/pressbox_open/images/apple-icons/oak.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Oakland Athletics Spring Training Index</h1><img src="http://oakland.athletics.mlb.com/mlb/images/team_logos/social_media/og_1200x630_image/oak_1200x630.jpg" /></article>
+<article style=""><h1>Oakland Athletics Spring Training Index</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5a5cbf6da329bec9d1eaa235e3e6e71424cfb19.jpg" /></article>
