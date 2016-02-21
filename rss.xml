@@ -4,8 +4,15 @@
         <description><![CDATA[John Harding, California Family Law Lawyer]]></description>
         <link>https://thegrid.ai/john-harding-jd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 22:47:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 22:49:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/john-harding-jd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Family Law Lawyer Tech & Practice]]></title>
+            <description><![CDATA[<article><h1>Family Law Lawyer Tech & Practice</h1><p>I have been remote computing for more than 20 years. Having the ability to operate my office computer 24/7 from anywhere in the world (or at least anywhere that I have internet connectivity or a cell phone signal) is a huge quality of life and quality of practice benefit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/170cc44448b80e2857cd71b6c4bb8de1fe4d149a.png"></article>]]></description>
+            <link>http://familylawyertech.blogspot.com/2016/02/i-just-switched-to-logmein.html</link>
+            <guid isPermaLink="false">9b9aca9c-ef07-4216-9e3e-5e028e096889</guid>
+            <pubDate>Sun, 21 Feb 2016 22:44:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.hardinglaw.com/wp-content/uploads/2016/01/genie.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.google.com/search?q=scalia&amp;rlz=1C5CHFA_enUS593US593&amp;oq=scalia&amp;aqs=chrome..69i57j0l5.1331j0j4&amp;sourceid=chrome&amp;es_sm=91&amp;ie=UTF-8</link>
             <guid isPermaLink="false">e2598414-d7b0-4ee6-bd24-03aae6ff87ff</guid>
             <pubDate>Sat, 20 Feb 2016 22:01:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f8830e6-1e9a-45f8-bc06-254b4c5dbaef.png">]]></description>
-            <link>https://thegrid.ai/john-harding-jd/c2c8f0a9-dbee-45a6-92ac-750c3575d775/index.html</link>
-            <guid isPermaLink="false">c2c8f0a9-dbee-45a6-92ac-750c3575d775</guid>
-            <pubDate>Sat, 20 Feb 2016 21:31:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
