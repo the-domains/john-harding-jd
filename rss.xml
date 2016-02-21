@@ -4,8 +4,15 @@
         <description><![CDATA[John Harding, California Family Law Lawyer]]></description>
         <link>https://thegrid.ai/john-harding-jd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 22:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 16:02:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/john-harding-jd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pepperdine University]]></title>
+            <description><![CDATA[<article><h1>Pepperdine University</h1><p>Welcome to Pepperdine University.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9196f35a20ab335197872ffa58072353a99c598a.jpg"></article>]]></description>
+            <link>http://www.pepperdine.edu/</link>
+            <guid isPermaLink="false">d3bb252c-ef10-4742-a172-697f61d8e043</guid>
+            <pubDate>Sun, 21 Feb 2016 16:02:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e39f03456de93dea3dafda019f78edbb8b23d1ab.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.hardinglaw.com/blog/behaviors-that-predict-divorce</link>
             <guid isPermaLink="false">4de08a33-b7e0-46a0-9da2-31c081559fad</guid>
             <pubDate>Sat, 20 Feb 2016 22:02:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Team Profile]]></title>
-            <description><![CDATA[<article><h1>Team Profile</h1><p>Harding & Associates Family law is a discreet law firm that provides professionals, executives and high net worth clients with exemplary customer service and legal representation. We have a proven history of achieving outstanding results for our clients.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4818840defb30783b7e0ca509035dede7046ecac.jpg"></article>]]></description>
-            <link>http://www.hardinglaw.com/team-profile</link>
-            <guid isPermaLink="false">7188555a-9ab6-4968-900b-fdcbf88e646e</guid>
-            <pubDate>Tue, 16 Feb 2016 18:30:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
