@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.pepperdine.edu'
-  name: Pepperdine
-  favicon: 'http://www.pepperdine.edu/favicon.ico'
-  domain: www.pepperdine.edu
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.pepperdine.edu/'
+inLanguage: en
+starred: false
 keywords:
   - pepperdine
   - christian
@@ -18,19 +17,22 @@ keywords:
   - university
   - program
 description: Welcome to Pepperdine University.
-inLanguage: en
+datePublished: '2016-02-21T16:02:29.728Z'
+dateModified: '2016-02-20T21:26:36.208Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.pepperdine.edu/'
 title: Pepperdine University
-datePublished: '2016-02-15T18:03:20.028Z'
-dateModified: '2016-02-15T18:01:42.911Z'
 sourcePath: _posts/2016-02-15-pepperdine-university.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Pepperdine
+  domain: www.pepperdine.edu
+  url: 'http://www.pepperdine.edu'
+  favicon: 'http://www.pepperdine.edu/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Pepperdine University</h1><p>Welcome to Pepperdine University&amp;period;</p><img src="http://www.pepperdine.edu/ldp/.private_ldp/a37534/production/master/37ecfa4d-7619-47d3-bc99-fa06ff66e62f.jpg" /></article>
+<article style=""><h1>Pepperdine University</h1><p>Welcome to Pepperdine University.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e966d29054c68121d1e06611b742efed0f4c8945.jpg" /></article>
