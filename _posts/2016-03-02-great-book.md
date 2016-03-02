@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T00:11:25.636Z'
-dateModified: '2016-03-02T00:10:29.709Z'
+datePublished: '2016-03-02T00:11:59.500Z'
+dateModified: '2016-03-02T00:11:32.975Z'
 author: []
 title: 'Great Book!'
 sourcePath: _posts/2016-03-02-great-book.md
