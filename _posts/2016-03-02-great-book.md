@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.amazon.com/Sisters-Law-OConnor-Ginsburg-Supreme/dp/0062238469'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T00:08:07.028Z'
-dateModified: '2016-03-02T00:07:48.381Z'
+datePublished: '2016-03-02T00:11:25.636Z'
+dateModified: '2016-03-02T00:10:29.709Z'
 author: []
 title: 'Great Book!'
+sourcePath: _posts/2016-03-02-great-book.md
+published: true
 authors: []
 publisher:
   name: amazon.com
   domain: www.amazon.com
   url: null
   favicon: null
-sourcePath: _posts/2016-03-02-great-book.md
-published: true
+url: great-book/index.html
 _context: 'http://schema.org'
 _type: Article
 
